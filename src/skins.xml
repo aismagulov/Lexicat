@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Skins>
+	<btnBlue:Slice9
+		src   = "'assets/img/skins/btnBlue.png'"
+		slice = "[50, 20, 200, 70]"
+	/>
+	<btnOrange:Slice9
+		src   = "'assets/img/skins/btnOrange.png'"
+		slice = "[50, 20, 200, 70]"
+	/>
+	<btnGreen:Slice9
+		src   = "'assets/img/skins/btnGreen.png'"
+		slice = "[50, 20, 200, 70]"
+	/>
+	<btnViolet:Slice9
+		src   = "'assets/img/skins/btnViolet.png'"
+		slice = "[50, 20, 200, 70]"
+	/>
+</Skins>
