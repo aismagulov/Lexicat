@@ -39,8 +39,9 @@ class Main extends Sprite
 		
 		// Assets:
 		// nme.Assets.getBitmapData("img/assetname.jpg");
-		
+#if mobile		
 		UIBuilder.setTheme('ru.stablex.ui.themes.android4');
+#end
 		UIBuilder.init();
 		UIBuilder.regSkins('skins.xml');
 		 
