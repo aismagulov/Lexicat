@@ -1,5 +1,5 @@
 # Lexicat
-Small app for learning foreign words, written on Haxe, made with OpenFL and StablexUI frameworks.
+Small app for learning foreign words, written on Haxe, made with OpenFL and StablexUI frameworks (for flash and android targets).
 
 Principle: 
 <br/>New words are written on cards, five words per card. 
